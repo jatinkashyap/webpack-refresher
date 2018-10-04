@@ -1,0 +1,23 @@
+{
+  "name": "webpack-refresher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinkashyap/webpack-refresher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinkashyap/webpack-refresher/issues"
+  },
+  "homepage": "https://github.com/jatinkashyap/webpack-refresher#readme",
+  "devDependencies": {
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^3.1.9"
+  }
+}
